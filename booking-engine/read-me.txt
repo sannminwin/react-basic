@@ -1,0 +1,11 @@
+1. Semantic UI css
+https://cdnjs.com/libraries/semantic-ui
+https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css
+
+
+2. Semantic UI container
+https://semantic-ui.com/elements/container.html 
+
+
+3. Semamtic UI Grid
+https://semantic-ui.com/collections/grid.html
